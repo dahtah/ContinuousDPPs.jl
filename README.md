@@ -1,7 +1,14 @@
 # ContinuousDPPs.jl
+![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)
+
+An experimental package to simulate continuous Determinantal Point Processes. Please don't use this for now. 
+
+Author: Simon Barthelmé, CNRS, GIPSA-lab
+
+
 
 <!-- Tidyverse lifecycle badges, see https://www.tidyverse.org/lifecycle/ Uncomment or delete as needed. -->
-![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)<!--
+
 ![lifecycle](https://img.shields.io/badge/lifecycle-maturing-blue.svg)
 ![lifecycle](https://img.shields.io/badge/lifecycle-stable-green.svg)
 ![lifecycle](https://img.shields.io/badge/lifecycle-retired-orange.svg)
